@@ -1,5 +1,5 @@
-import * as React from "react"
-import Shows from "../components/home_page_components/shows"
+import * as React from "react";
+import Shows from "../components/home_page_components/shows";
 //import Videos from "../components/home_page_components/videos"
 //import Podcasts from "../components/home_page_components/podcasts" // again
 //import Articles from "../components/home_page_components/articles"
@@ -8,7 +8,6 @@ import Shows from "../components/home_page_components/shows"
 //import useGetShowList from "../hooks/useGetShowList"
 //import { GatsbyImage } from "gatsby-plugin-image"
 
-// markup
 const IndexPage = () => {
   // const list = useGetShowList()
   // const data = list[6]
@@ -46,7 +45,7 @@ const IndexPage = () => {
       <Articles /> 
       */}
     </div>
-  )
-}
+  );
+};
 
-export default IndexPage
+export default IndexPage;
