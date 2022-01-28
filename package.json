@@ -1,0 +1,12 @@
+{
+  "name": "debugledgergatsbydeploy",
+  "version": "1.0.0",
+  "description": "## _Debug a failing gatsby build by creating an alternate build on digital ocean_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
